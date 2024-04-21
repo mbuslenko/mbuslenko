@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **m.buslenko@gmail.com**
 
-<a href="https://www.codewars.com/users/mbuslenko" target="blank><img align="center" src="https://www.codewars.com/users/mbuslenko/badges/large" /></a>
+<a href="https://www.codewars.com/users/mbuslenko" target="blank"><img align="center" src="https://www.codewars.com/users/mbuslenko/badges/large" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
